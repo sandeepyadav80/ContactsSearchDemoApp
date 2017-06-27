@@ -1618,7 +1618,7 @@
             
         
         
-    </string><string name="app_name">BasicContactables</string></file><file path="C:\Users\sudchoud\AndroidStudioProjects\ContactsSearchDemoApp\Application\src\main\res\values\strings.xml" qualifiers=""><string name="sample_action">Sample action</string><string name="search_title">Search Contacts</string></file><file path="C:\Users\sudchoud\AndroidStudioProjects\ContactsSearchDemoApp\Application\src\main\res\values\styles.xml" qualifiers=""><style name="Widget.SampleOutput">
+    </string><string name="app_name">ContactsSearchDemoApp</string></file><file path="C:\Users\sudchoud\AndroidStudioProjects\ContactsSearchDemoApp\Application\src\main\res\values\strings.xml" qualifiers=""><string name="sample_action">Sample action</string><string name="search_title">Search Contacts</string></file><file path="C:\Users\sudchoud\AndroidStudioProjects\ContactsSearchDemoApp\Application\src\main\res\values\styles.xml" qualifiers=""><style name="Widget.SampleOutput">
         <item name="android:padding">@dimen/margin_medium</item>
         <item name="android:textAppearance">?android:textAppearanceMedium</item>
         <item name="android:lineSpacingMultiplier">1.1</item>

@@ -37,7 +37,14 @@ android {
     defaultConfig {
         minSdkVersion 18
         targetSdkVersion 22
+
+        // This line is to mention the version name in the Build APK
+        versionName "1.0"
+
+        // The line is to rename the APK being build
+        project.ext.set("archivesBaseName", "ContactsSearchDemoApp-" + defaultConfig.versionName);
     }
+
 
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_7
