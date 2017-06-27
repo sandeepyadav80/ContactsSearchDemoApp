@@ -21,9 +21,7 @@
         <![CDATA[
         
             
-            This sample demonstrates how to use the Contactables table to search for contacts.
-            \n\nQuery strings sent to the Contactables table will match both contact names and phone numbers,
-            reducing the number of queries your application needs to use when searching the contacts database!
+            This is a Basic Contacts Search App created for Sogeti Practice Demo Purpose.
             
         
         ]]>
