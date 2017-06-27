@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\sudchoud\\AndroidStudioProjects\\ContactsSearchDemoApp\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_search_api_holo_light.png",
+        "source": "C:\\Users\\sudchoud\\AndroidStudioProjects\\ContactsSearchDemoApp\\Application\\src\\main\\res\\drawable-mdpi\\ic_search_api_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\sudchoud\\AndroidStudioProjects\\ContactsSearchDemoApp\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\sudchoud\\AndroidStudioProjects\\ContactsSearchDemoApp\\Application\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]
