@@ -45,6 +45,9 @@ android {
         project.ext.set("archivesBaseName", "ContactsSearchDemoApp-" + defaultConfig.versionName);
     }
 
+    lintOptions {
+        abortOnError false
+    }
 
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_7
